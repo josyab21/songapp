@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
         <FooterText>&copy; 2024 Song App | All Rights Reserved</FooterText>
         <FooterText>
           Built with love by
-          <FooterLink href="https://song-frontend.vercel.app">
+          <FooterLink href="https://songapp-fh9n.onrender.com">
             Song App
           </FooterLink>
         </FooterText>
