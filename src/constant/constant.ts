@@ -1,1 +1,1 @@
-export const BASE_URL = "https://songapp-api.onrender.com/api";
+export const BASE_URL = "https://songapp-api.onrender.com";
